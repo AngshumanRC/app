@@ -1,0 +1,76 @@
+.container{
+    height: 100vh;
+}
+.header{
+    background-color: red;
+    height: 10%;
+}
+.content{
+    height: 90%;
+    display: flex;
+}
+.navbar{
+    width: 20%;
+}
+.main{
+    width: 80%;
+}
+.nav1{
+    background-color: lawngreen;
+    height: 15%;
+}
+.nav2{
+    background-color:purple;
+    height: 70%;
+}
+.nav3{
+    background-color: mediumseagreen;
+    height: 15%;
+}
+.main1{
+    background-color: rosybrown;
+    height: 9%;
+}
+.main2{
+    background-color: sienna;
+    height: 10%;
+}
+.main3{
+    height: 71%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-around;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+}
+.one{
+    width: 48%;
+    height: 45%;
+    display: flex;
+    justify-content: space-between;
+}
+.one-one{
+    background-color: tomato;
+    width: 48%;
+}
+.one-two{
+    background-color: yellow;
+    width: 48%;
+}
+.two{
+    background-color: turquoise;
+    width: 48%;
+    height: 45%;
+}
+.three{
+    background-color: sandybrown;
+    width: 48%;
+    height: 45%;
+}
+.four{
+    background-color: slategray;
+    width: 48%;
+    height: 45%;
+}
